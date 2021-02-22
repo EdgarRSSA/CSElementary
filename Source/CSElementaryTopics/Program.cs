@@ -31,7 +31,7 @@ namespace Elementary
 					{
 						if ( method.IsStatic )
 						{
-							string nameClass = type.Name;
+							string nameClass = type.FullName;
 							string nameMethod = method.Name;							
 							bool isTesteable = method.GetCustomAttribute<TestAttribute>()!=null;
 							if ( isTesteable && method.GetCustomAttribute<TestAttribute>().Active )
