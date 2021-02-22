@@ -90,6 +90,7 @@
     <Compile Include="DataStructures\Arrays\BinarySearch\Simple.cs" />
     <Compile Include="DataStructures\Arrays\BinarySearch\Generic.cs" />
     <Compile Include="DataStructures\Arrays\BinarySearch\SimpleInRange.cs" />
+    <Compile Include="DataStructures\Arrays\BinarySearch\UsingIComparable.cs" />
     <Compile Include="DataStructures\Arrays\ReadOnlyArrays.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
