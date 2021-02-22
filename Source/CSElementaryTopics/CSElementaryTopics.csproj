@@ -90,6 +90,7 @@
     <Compile Include="Class\ClassModifiersNEW.cs" />
     <Compile Include="Class\GenericClass.cs" />
     <Compile Include="DataStructures\Arrays\ArrayClearing.cs" />
+    <Compile Include="DataStructures\Arrays\ArrayCopies.cs" />
     <Compile Include="DataStructures\Arrays\ArrayPropierties.cs" />
     <Compile Include="DataStructures\Arrays\BinarySearch\GenericInRange.cs" />
     <Compile Include="DataStructures\Arrays\BinarySearch\InRangeUsingIComparable.cs" />
