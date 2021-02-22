@@ -87,6 +87,7 @@
     <Compile Include="DataStructures\Arrays\ArrayClearing.cs" />
     <Compile Include="DataStructures\Arrays\ArrayPropierties.cs" />
     <Compile Include="DataStructures\Arrays\BinarySearch\GenericInRange.cs" />
+    <Compile Include="DataStructures\Arrays\BinarySearch\InRangeUsingIComparable.cs" />
     <Compile Include="DataStructures\Arrays\BinarySearch\Simple.cs" />
     <Compile Include="DataStructures\Arrays\BinarySearch\Generic.cs" />
     <Compile Include="DataStructures\Arrays\BinarySearch\SimpleInRange.cs" />
