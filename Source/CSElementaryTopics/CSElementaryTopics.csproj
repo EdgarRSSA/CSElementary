@@ -86,6 +86,7 @@
   <ItemGroup>
     <Compile Include="DataStructures\Arrays\ArrayClearing.cs" />
     <Compile Include="DataStructures\Arrays\ArrayPropierties.cs" />
+    <Compile Include="DataStructures\Arrays\BinarySearch\Simple.cs" />
     <Compile Include="DataStructures\Arrays\ReadOnlyArrays.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
