@@ -86,6 +86,7 @@
   <ItemGroup>
     <Compile Include="Class\ClassIndexers.cs" />
     <Compile Include="Class\ClassMembers.cs" />
+    <Compile Include="Class\ClassModifiersNEW.cs" />
     <Compile Include="DataStructures\Arrays\ArrayClearing.cs" />
     <Compile Include="DataStructures\Arrays\ArrayPropierties.cs" />
     <Compile Include="DataStructures\Arrays\BinarySearch\GenericInRange.cs" />
