@@ -7,7 +7,7 @@
     <ProjectGuid>{CE50DFD2-F396-49EF-BFA8-24ADF1B730B1}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Elementary</RootNamespace>
-    <AssemblyName>CSElementaryConsole</AssemblyName>
+    <AssemblyName>CSElementary</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
