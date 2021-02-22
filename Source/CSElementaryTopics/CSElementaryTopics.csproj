@@ -84,6 +84,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class\ClassIndexers.cs" />
     <Compile Include="Class\ClassMembers.cs" />
     <Compile Include="DataStructures\Arrays\ArrayClearing.cs" />
     <Compile Include="DataStructures\Arrays\ArrayPropierties.cs" />
