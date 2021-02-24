@@ -101,6 +101,7 @@
     <Compile Include="DataStructures\Arrays\Cloning.cs" />
     <Compile Include="DataStructures\Arrays\Creating.cs" />
     <Compile Include="DataStructures\Arrays\Existence.cs" />
+    <Compile Include="DataStructures\Arrays\FindItems.cs" />
     <Compile Include="DataStructures\Arrays\ReadOnlyArrays.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
