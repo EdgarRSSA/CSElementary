@@ -105,6 +105,7 @@
     <Compile Include="DataStructures\Arrays\ReadOnlyArrays.cs" />
     <Compile Include="DataStructures\Binaries\Buffers.cs" />
     <Compile Include="DataStructures\Binaries\ByteConverters.cs" />
+    <Compile Include="DataStructures\HashSets\LogicalFunctions.cs" />
     <Compile Include="DataStructures\Strings\Format.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
